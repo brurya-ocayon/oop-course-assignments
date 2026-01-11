@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.AssemblyInfo.cs
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.sourcelink.json
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.exe
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.deps.json
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.runtimeconfig.json
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.dll
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.pdb
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.dll
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\refint\Ex02_Q1.dll
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.pdb
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.genruntimeconfig.cache
+C:\Users\user1\source\repos\oop-course-assignments\Ex02_Q1\obj\Debug\net8.0\ref\Ex02_Q1.dll
