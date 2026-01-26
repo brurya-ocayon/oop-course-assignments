@@ -1,0 +1,22 @@
+# Visual Studio Build Results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# Visual Studio User Specific Files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache directories
+.vs/
+
+# Common Temporary Files
+*.tmp
+*.log
+
+# Windows image source caches
+Thumbs.db
+ehthumbs.db

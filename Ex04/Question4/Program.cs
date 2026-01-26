@@ -7,13 +7,13 @@ class Program
         Fraction f1 = new Fraction(8, 12);
         Fraction f2 = new Fraction(1, 3);
 
-        Console.WriteLine(f1);        // 2/3
-        Console.WriteLine(f2);        // 1/3
-        Console.WriteLine(f1 + f2);   // 1/1
-        Console.WriteLine(f1 * f2);   // 2/9
-        Console.WriteLine(f1 / f2);   // 2/1
-        Console.WriteLine(f1 > f2);   // True
-        Console.WriteLine(f1 == f2);  // False
+        Console.WriteLine(f1);       
+        Console.WriteLine(f2);        
+        Console.WriteLine(f1 + f2);  
+        Console.WriteLine(f1 * f2);   
+        Console.WriteLine(f1 / f2);   
+        Console.WriteLine(f1 > f2);    
+        Console.WriteLine(f1 == f2);  
     }
 }
 
@@ -81,6 +81,13 @@ class Fraction
         return new Fraction(
             a.numerator * b.denominator,
             a.denominator * b.numerator
+        );
+    }
+    public static Fraction operator -(Fraction a, Fraction b)
+    {
+        return new Fraction(
+            a.numerator * b.denominator - b.numerator * a.denominator,
+            a.denominator * b.denominator
         );
     }
 

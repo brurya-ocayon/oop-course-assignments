@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB2C31D9-4AEB-4912-A079-3DD48C8F452E}|Question5\\Question5.csproj|c:\\users\\user1\\source\\repos\\oop-course-assignments\\ex04\\question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2C31D9-4AEB-4912-A079-3DD48C8F452E}|Question5\\Question5.csproj|solutionrelative:question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F533C516-035A-43D5-B6B1-089DBAC2988B}|Solution Items{F533C516-035A-43D5-B6B1-089DBAC2988B}|C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F533C516-035A-43D5-B6B1-089DBAC2988B}|Solution Items{F533C516-035A-43D5-B6B1-089DBAC2988B}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8FCF8EE-9D21-4A9F-99A9-728AAA92EED3}|Question4\\Question4.csproj|c:\\users\\user1\\source\\repos\\oop-course-assignments\\ex04\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C4ECEA78-27EA-4674-8004-B53D478520B1}|Question3\\Question3.csproj|c:\\users\\user1\\source\\repos\\oop-course-assignments\\ex04\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4ECEA78-27EA-4674-8004-B53D478520B1}|Question3\\Question3.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C31D9-4AEB-4912-A079-3DD48C8F452E}|Question5\\Question5.csproj|c:\\users\\user1\\source\\repos\\oop-course-assignments\\ex04\\question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C31D9-4AEB-4912-A079-3DD48C8F452E}|Question5\\Question5.csproj|solutionrelative:question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,34 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-26T16:28:34.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\Question5\\Program.cs",
               "RelativeDocumentMoniker": "Question5\\Program.cs",
               "ToolTip": "C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\Question5\\Program.cs",
               "RelativeToolTip": "Question5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:53:04.313Z",
               "EditorCaption": ""
@@ -49,7 +70,7 @@
               "RelativeDocumentMoniker": "Question4\\Program.cs",
               "ToolTip": "C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\Question4\\Program.cs",
               "RelativeToolTip": "Question4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:49:46.002Z",
               "EditorCaption": ""
@@ -62,10 +83,18 @@
               "RelativeDocumentMoniker": "Question3\\Program.cs",
               "ToolTip": "C:\\Users\\user1\\source\\repos\\oop-course-assignments\\Ex04\\Question3\\Program.cs",
               "RelativeToolTip": "Question3\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:38:15.972Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
